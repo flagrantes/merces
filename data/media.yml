@@ -1,0 +1,17 @@
+media:
+  - title: "Set Fire To My Face"
+    links:
+      - title: "YouTube"
+        type: "music"
+        link: "https://www.youtube.com/watch?v=AvGar_JZ0H8"
+      - title: "Bandcamp"
+        type: "music"
+        link: "https://merces.bandcamp.com/track/set-fire-to-my-face"
+  - title: "The Beast"
+    links:
+      - title: "Captation live"
+        type: "video"
+        link: "https://www.youtube.com/watch?v=w1CEW1Q1hMA"
+      - title: "Bandcamp (demo)"
+        type: "music"
+        link: "https://merces.bandcamp.com/track/the-beast-maquette"

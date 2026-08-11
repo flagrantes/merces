@@ -1,0 +1,51 @@
+dates:
+  - date: 2026-06-30
+    title: Portes ouvertes du Conservatoire
+    link: https://www.instagram.com/p/DZabyHZiqyx/
+    venue: Polychrome
+    city: Voiron
+
+  - date: 2026-06-17
+    title: From the basement
+    link: https://billetterie.le-ciel.fr/agenda/117-FROM-THE-BASEMENT-MERCES-GARDEN-OF-ERDEN-ZEY-AQUAPLANING-TAOS-OMRI
+    venue: Le Ciel
+    city: Grenoble
+
+  - date: 2026-06-13
+    title: Festival Paillettes Vénèr
+    link: https://paillettesvener.wixsite.com/grenoble/programme2026
+    lineup:
+      - M4UV3
+    venue: Le 102
+    city: Grenoble
+
+  - date: 2026-05-07
+    title: Rage In The Pit #2
+    link: https://www.helloasso.com/associations/diaoulig-asso/evenements/rage-in-the-pit-2
+    lineup:
+      - RainDrop
+      - Encounters
+    venue: Austra Rocks
+    city: Saint-Martin d'Hères
+
+  - date: 2025-06-21
+    title: Fête de la musique
+    organizer: Le Centre Social 38
+    lineup:
+      - Gintsugi
+      - Tempête de chiennes
+      - Sian
+      - Rima
+      - Abraze
+      - DJ remix
+    venue: Centre Social 38
+    city: Grenoble
+
+  - date: 2023-11-24
+    title: Soirée Queer Punk
+    organizer: Le Label Squelette
+    lineup:
+      - Resille
+      - Basseville
+    venue: Le Bezimena
+    city: Grenoble
