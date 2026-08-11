@@ -79,8 +79,8 @@ Notre setlist dure **30 minutes**.
 
 <script setup>
 import ImageGallery from './components/image-gallery.vue'
-import { data as posts } from './documents.data.js'
-import { data } from './dynamic.data.js'
+import { data as posts } from './documents.data.ts'
+import { data } from './dynamic.data.ts'
 
 function formatDate(d) {
   return new Date(d).toLocaleDateString('fr-FR')
