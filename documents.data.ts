@@ -19,7 +19,7 @@ export default {
         return {
           filename,
           ext: path.extname(file),
-          src: `/${filename}`, // public/ is served at root
+          src: `/merces/${filename}`, // public/ is served at root
         }
       })
       .sort((a, b) => a.filename.localeCompare(b.filename))
