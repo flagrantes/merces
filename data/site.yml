@@ -1,0 +1,16 @@
+site:
+  name: MERCES
+  tagline: Métal queer et féministe
+  hero:
+    src: /MERCES01-BAND-Ennio_Grazioli.jpg
+    alt: Merces
+  introduction:
+    - "Au milieu d'une scène métal prédominée par des artistes masculins parfois problématiques, Merces est une bouffée d'air militante."
+    - "C'est une rage violente contre un système d'oppressions. C'est un cri du cœur porté par des queers féministes qui font face quotidiennement à ses conséquences. C'est un scream qui traduit la lourdeur de ces sujets : santé mentale, antifascisme, identité, lgbtphobies, féminicides..."
+    - "Mais Merces, néo-divinité guide des personnes LGBTQIA+, porte aussi un message d'espoir : notre place est là, nos revendications seront entendues."
+    - "À la croisée des genres, les riffs dissonants et saturés de Merces s'inspirent aussi bien de black métal, death mélodique, que de mouvements plus récents avec des breaks à la metalcore. L'alternance du scream et du chant clair incarne aussi bien la colère enflammée du groupe que les émotions intenses qui l'alimentent."
+  booking:
+    text: Nous sommes activement à la recherche de dates. Joignez-nous à
+    email: merces.band@proton.me
+    setlist: Notre setlist dure 30 minutes.
+  footer: EPK by flagrant·es

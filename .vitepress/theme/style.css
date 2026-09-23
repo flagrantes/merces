@@ -31,3 +31,26 @@ html, body {
 img {
   max-width: 100%;
 }
+
+h2::before {
+  content: " ✦ ";
+  margin-right: 0.3em;
+}
+
+a {
+  color: #A267F5;
+}
+
+a:hover {
+  color: white;
+  text-shadow: 0 0 10px white;
+  transition: all 0.2s;
+}
+
+h2 {
+  margin-top: 3rem !important;
+}
+
+h1, h2, h3 {
+  color: white;
+}
