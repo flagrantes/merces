@@ -15,3 +15,8 @@ media:
       - title: "Bandcamp (demo)"
         type: "music"
         link: "https://merces.bandcamp.com/track/the-beast-maquette"
+  - title: "Logo"
+    links:
+      - title: "Logo du groupe (png/jpg)"
+        type: "image"
+        link: "https://drive.proton.me/urls/X4BX52NXVR#VLlqe4IdgM8f"
