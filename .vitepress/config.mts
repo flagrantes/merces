@@ -3,7 +3,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vitepress.dev/reference/site-config
 const defaultConfig = defineConfig({
-  base: '/merces/',
+  base: '/',
   title: "MERCES - Métal Queer & Féministe",
   description: "Métal Queer & Féministe",
   themeConfig: {
